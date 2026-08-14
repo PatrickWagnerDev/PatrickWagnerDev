@@ -72,6 +72,10 @@ I'm focused on learning right now, but I'm open to future opportunities and conn
 
 </div>
 
+<div>
+  
 <p align="right">
   <sub>Last manual update: 2026-08-14 14:36</sub>
 </p>
+
+</div>
