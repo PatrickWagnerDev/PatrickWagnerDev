@@ -14,14 +14,14 @@
 
 I'm a career changer from Germany, currently training in web development at the **Developer Akademie**.
 
-My journey begins with frontend development, where I'm building a solid foundation in **HTML, CSS, and JavaScript**. In the future, I want to expand my skills into **fullstack development** and eventually explore the world of **AI engineering**.
+My journey begins with frontend development, where I'm building a solid foundation in **HTML, CSS, JavaScript, TypeScript and Angular**. In the future, I want to expand my skills into **fullstack development** and eventually explore the world of **AI engineering**.
 
 I enjoy turning problems into solutions, staying persistent when things get challenging, and seeing ideas come to life through code. I'm still at the beginning of my journey—but I'm motivated to keep learning, building, and improving one step at a time.
 
 ## Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML and CSS" />
 </p>
 
 - Building responsive and accessible websites
@@ -39,7 +39,7 @@ Frontend Development  →  Fullstack Development  →  AI Engineering
 ### Next on my learning roadmap
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,mysql" alt="TypeScript, Python and databases" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,python,mysql" alt="JavaScript, TypeScript, Angular, Python and databases" />
 </p>
 
 - TypeScript
