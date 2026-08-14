@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PatrickWagnerDev/PatrickWagnerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/patrick-github-banner.gif" alt="Hi there! I'm Patrick — animated developer journey banner" width="100%" />
 
-Here are some ideas to get you started:
+# Hi, I'm Patrick 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Frontend+Developer+in+Training)](https://git.io/typing-svg)
+
+### New to code. Driven to build. Aiming for intelligence.
+
+</div>
+
+## About Me
+
+I'm a career changer from Germany, currently training in web development at the **Developer Akademie**.
+
+My journey begins with frontend development, where I'm building a solid foundation in **HTML, CSS, and JavaScript**. In the future, I want to expand my skills into **fullstack development** and eventually explore the world of **AI engineering**.
+
+I enjoy turning problems into solutions, staying persistent when things get challenging, and seeing ideas come to life through code. I'm still at the beginning of my journey—but I'm motivated to keep learning, building, and improving one step at a time.
+
+## Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+</p>
+
+- Building responsive and accessible websites
+- Writing clean and structured HTML and CSS
+- Developing a strong foundation in JavaScript
+- Using GitHub to document my progress
+
+## My Development Path
+
+```text
+Frontend Development  →  Fullstack Development  →  AI Engineering
+        NOW                    NEXT                   FUTURE
+```
+
+### Next on my learning roadmap
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,mysql" alt="TypeScript, Python and databases" />
+</p>
+
+- TypeScript
+- Python
+- Databases
+
+## Projects
+
+> 🚧 **Projects coming soon.**  
+> I'm currently strengthening my fundamentals. My first projects will be added here over the next few months.
+
+## Contact Me
+
+I'm focused on learning right now, but I'm open to future opportunities and connecting with people from the developer community.
+
+<p>
+  <a href="mailto:patrickwagner2607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=181717" alt="Email Patrick" />
+  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-30363D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn coming soon" />
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-30363D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio coming soon" />
+</p>
+
+---
+
+<div align="center">
+
+### Keep learning. Keep building. Keep moving forward.
+
+</div>
