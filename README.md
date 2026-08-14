@@ -21,7 +21,7 @@ I enjoy turning problems into solutions, staying persistent when things get chal
 ## Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" />
 </p>
 
 - Building responsive and accessible websites
@@ -42,7 +42,9 @@ Frontend Development  →  Fullstack Development  →  AI Engineering
   <img src="https://skillicons.dev/icons?i=js,ts,angular,python,mysql" alt="JavaScript, TypeScript, Angular, Python and databases" />
 </p>
 
+- JavaScript
 - TypeScript
+- Angular
 - Python
 - Databases
 
