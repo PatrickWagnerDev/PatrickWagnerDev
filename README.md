@@ -4,7 +4,7 @@
 
 # Hi, I'm Patrick 👋
 
-## Frontend Developer in Training
+### Frontend Developer in Training
 ### New to code. Driven to build. Aiming for intelligence.
 
 </div>
