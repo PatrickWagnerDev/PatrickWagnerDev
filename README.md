@@ -50,8 +50,8 @@ Frontend Development  →  Fullstack Development  →  AI Engineering
 
 ## Projects
 
-> **Projects coming soon.**  
-> I'm currently strengthening my fundamentals. My first projects will be added here over the next few weeks.
+<!-- > **Projects coming soon.**  
+> I'm currently strengthening my fundamentals. My first projects will be added here over the next few weeks. -->
 
 ## Contact Me
 
