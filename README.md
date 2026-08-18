@@ -4,8 +4,8 @@
 
 # Hi, I'm Patrick 👋
 
-<h2 align="center" style="font-family: 'Fira Code', monospace; color: #D4AF37;">
-  Frontend Developer in Training
+<h2 align="center">
+  <font color="#D4AF37">Frontend Developer in Training</font>
 </h2>
 
 ### New to code. Driven to build. Aiming for intelligence.
