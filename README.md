@@ -48,9 +48,9 @@ Frontend Development  →  Fullstack Development  →  AI Engineering
 - Python
 - Databases
 
-## Projects
+<!-- ## Projects
 
-<!-- > **Projects coming soon.**  
+> **Projects coming soon.**  
 > I'm currently strengthening my fundamentals. My first projects will be added here over the next few weeks. -->
 
 ## Contact Me
