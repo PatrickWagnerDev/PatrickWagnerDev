@@ -4,9 +4,7 @@
 
 # Hi, I'm Patrick 👋
 
-<p align="center">
-  <img src="https://dummyimage.com/650x40/000000/ D4AF37.png&text=Frontend+Developer+in+Training" alt="Frontend Developer in Training">
-</p>
+##<span style="color:#D4AF37;">Frontend Developer in Training</span>
 
 ### New to code. Driven to build. Aiming for intelligence.
 
