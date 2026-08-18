@@ -19,16 +19,18 @@ I'm currently expanding my knowledge and working towards becoming a Fullstack De
 
 I enjoy solving problems, staying persistent when things get challenging, and learning by building. I'm always looking for opportunities to improve my skills, take on new challenges, and turn ideas into working solutions.
 
-## Currently Learning
+## Skills & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" alt="HTML, CSS, JavaScript, TypeScript and Angular" />
 </p>
 
 - Building responsive and accessible websites
 - Writing clean and structured HTML and CSS
-- Developing a strong foundation in JavaScript
-- Using GitHub to document my progress
+- Developing with JavaScript and TypeScript
+- Building applications with Angular
+- Using Git and GitHub to manage and document my projects
+- Working with Jira in collaborative projects
 
 ## My Development Path
 
@@ -40,11 +42,9 @@ Frontend Development  →  Fullstack Development  →  AI Engineering
 ### Next on my learning roadmap
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,angular,python,mysql" alt="TypeScript, Angular, Python and databases" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and Databases" />
 </p>
 
-- TypeScript
-- Angular
 - Python
 - Databases
 
@@ -76,7 +76,7 @@ I'm focused on learning right now, but I'm open to future opportunities and conn
 <div>
   
 <p align="right">
-  <sub>Last manual update: 2026-08-18 11:14</sub>
+  <sub>Last manual update: 2026-08-18 11:32</sub>
 </p>
 
 </div>
