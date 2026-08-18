@@ -4,8 +4,7 @@
 
 # Hi, I'm Patrick 👋
 
-##<span style="color:#D4AF37;">Frontend Developer in Training</span>
-
+##Frontend Developer in Training
 ### New to code. Driven to build. Aiming for intelligence.
 
 </div>
