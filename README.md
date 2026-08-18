@@ -4,7 +4,9 @@
 
 # Hi, I'm Patrick 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Frontend+Developer+in+Training)](https://git.io/typing-svg)
+<h2 align="center" style="font-family: 'Fira Code', monospace; color: #D4AF37;">
+  Frontend Developer in Training
+</h2>
 
 ### New to code. Driven to build. Aiming for intelligence.
 
@@ -49,8 +51,8 @@ Frontend Development  →  Fullstack Development  →  AI Engineering
 
 ## Projects
 
-> 🚧 **Projects coming soon.**  
-> I'm currently strengthening my fundamentals. My first projects will be added here over the next few months.
+> **Projects coming soon.**  
+> I'm currently strengthening my fundamentals. My first projects will be added here over the next few weeks.
 
 ## Contact Me
 
@@ -60,8 +62,8 @@ I'm focused on learning right now, but I'm open to future opportunities and conn
   <a href="mailto:patrickwagner2607@gmail.com">
     <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=181717" alt="Email Patrick" />
   </a>
-  <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-30363D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn coming soon" />
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-30363D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio coming soon" />
+  <!-- <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-30363D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn coming soon" />
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-30363D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio coming soon" /> -->
 </p>
 
 ---
@@ -75,7 +77,7 @@ I'm focused on learning right now, but I'm open to future opportunities and conn
 <div>
   
 <p align="right">
-  <sub>Last manual update: 2026-08-14 14:36</sub>
+  <sub>Last manual update: 2026-08-18 10:41</sub>
 </p>
 
 </div>
