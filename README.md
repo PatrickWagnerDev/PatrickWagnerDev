@@ -11,11 +11,13 @@
 
 ## About Me
 
-I'm a career changer from Germany, currently training in web development at the **Developer Akademie**.
+I'm a career changer from Germany and a Frontend Developer with a passion for building things with code and continuously improving my skills.
 
-My journey begins with frontend development, where I'm building a solid foundation in **HTML, CSS, JavaScript, TypeScript and Angular**. In the future, I want to expand my skills into **fullstack development** and eventually explore the world of **AI engineering**.
+My focus is on HTML, CSS, JavaScript, TypeScript and Angular. Through practical projects, I have gained experience in building responsive websites, structuring code, solving problems, and working with Git and GitHub. I enjoy taking an idea and turning it into something functional, while learning from each project along the way.
 
-I enjoy turning problems into solutions, staying persistent when things get challenging, and seeing ideas come to life through code. I'm still at the beginning of my journey—but I'm motivated to keep learning, building, and improving one step at a time.
+I'm currently expanding my knowledge and working towards becoming a Fullstack Developer, with the long-term goal of exploring AI engineering as well.
+
+I enjoy solving problems, staying persistent when things get challenging, and learning by building. I'm always looking for opportunities to improve my skills, take on new challenges, and turn ideas into working solutions.
 
 ## Currently Learning
 
@@ -74,7 +76,7 @@ I'm focused on learning right now, but I'm open to future opportunities and conn
 <div>
   
 <p align="right">
-  <sub>Last manual update: 2026-08-18 11:04</sub>
+  <sub>Last manual update: 2026-08-18 11:14</sub>
 </p>
 
 </div>
